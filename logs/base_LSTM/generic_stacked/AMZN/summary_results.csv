@@ -1,0 +1,5 @@
+stock_name,train_rmse,test_rmse,train_mape,test_mape,fit_time,name,hidden_size,num_layers,dropout,lr,num_epochs
+AMZN,6.06,7.74,2.7,2.6,31.1,generic_stacked,64,2,0.2,0.001,100
+AMZN,5.47,7.39,2.35,2.51,31.3,generic_stacked,64,2,0.2,0.001,100
+AMZN,5.68,6.79,2.53,2.33,31.3,generic_stacked,64,2,0.2,0.001,100
+AMZN,5.13,7.3,2.12,2.46,31.7,generic_stacked,64,2,0.2,0.001,100

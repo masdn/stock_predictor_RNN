@@ -1,0 +1,7 @@
+stock_name,train_rmse,test_rmse,train_mape,test_mape,fit_time,name,hidden_size,num_layers,dropout,lr,num_epochs
+NVDA,4.24,4.63,3.62,1.96,30.0,generic_stacked,64,2,0.2,0.001,100
+NVDA,4.17,4.67,3.06,1.97,28.5,generic_stacked,64,2,0.2,0.001,100
+NVDA,5.11,4.79,3.83,2.05,29.9,generic_stacked,64,2,0.2,0.001,100
+NVDA,5.09,4.63,4.46,1.96,28.9,generic_stacked,64,2,0.2,0.001,100
+NVDA,5.37,7.27,5.66,3.35,28.7,generic_stacked,64,2,0.2,0.001,100
+NVDA,4.53,4.93,4.76,2.21,63.0,generic_stacked,128,2,0.2,0.001,100

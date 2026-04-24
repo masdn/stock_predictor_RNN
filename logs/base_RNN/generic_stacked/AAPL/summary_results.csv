@@ -1,0 +1,8 @@
+stock_name,train_rmse,test_rmse,train_mape,test_mape,fit_time,name,hidden_size,num_layers,dropout,lr,num_epochs
+AAPL,3.89,4.54,1.44,1.41,14.7,generic_stacked,64,2,0.2,0.001,100
+AAPL,3.8,4.49,1.36,1.39,14.9,generic_stacked,64,2,0.2,0.001,100
+AAPL,3.88,4.52,1.43,1.4,14.7,generic_stacked,64,2,0.2,0.001,100
+AAPL,3.67,5.36,1.31,1.72,12.6,generic_stacked,64,2,0.2,0.001,100
+AAPL,3.92,3.73,1.41,1.08,14.6,generic_stacked,64,2,0.2,0.001,100
+AAPL,3.55,4.89,1.22,1.54,12.4,generic_stacked,64,2,0.2,0.001,100
+AAPL,3.89,5.88,1.47,1.9,12.5,generic_stacked,64,2,0.2,0.001,100

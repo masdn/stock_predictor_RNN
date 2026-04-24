@@ -1,0 +1,2 @@
+stock_name,train_rmse,test_rmse,train_mape,test_mape,fit_time,name,hidden_size,num_layers,dropout,lr,num_epochs
+AAPL,3.85,4.79,1.39,1.46,7.5,generic,64,1,0.2,0.001,100

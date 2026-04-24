@@ -1,0 +1,2 @@
+stock_name,train_rmse,test_rmse,train_mape,test_mape,fit_time,name,hidden_size,num_layers,dropout,lr,num_epochs
+WMT,3.69,2.28,5.15,1.4,15.3,generic_stacked,64,2,0.2,0.001,100
